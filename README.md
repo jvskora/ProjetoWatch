@@ -61,7 +61,8 @@ fato_atendimentos: Informações sobre atendimentos ao cliente.
 
 fato_planos_contratados: Dados sobre os planos de assinatura contratados pelos usuários.
 
-**LINK PARA O DIAGRAMA DO BANCO:** https://dbdiagram.io/d/Diagrama-ProjetoWatch-6867e200f413ba3508540b7b
+**LINK PARA O DIAGRAMA DO BANCO:** https://dbdiagram.io/d/Diagrama-ProjetoWatch-6867e200f413ba3508540b7b (Passe o mouse em cima das tabelas para ver os relacionamentos)
+
 *NA PASTA DATA TEM EXEMPLOS DE VIEWS E QUERIES A SEREM UTILIZADAS NO BANCO*
 
 # COMO GERAR DADOS NO BANCO:
