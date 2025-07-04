@@ -61,9 +61,8 @@ fato_atendimentos: Informações sobre atendimentos ao cliente.
 
 fato_planos_contratados: Dados sobre os planos de assinatura contratados pelos usuários.
 
-## LINK PARA O DIAGRAMA DO BANCO: https://dbdiagram.io/d/Diagrama-ProjetoWatch-6867e200f413ba3508540b7b
-
-## NA PASTA DATA TEM EXEMPLOS DE VIEWS E QUERIES A SEREM UTILIZADAS NO BANCO
+**LINK PARA O DIAGRAMA DO BANCO:** https://dbdiagram.io/d/Diagrama-ProjetoWatch-6867e200f413ba3508540b7b
+**NA PASTA DATA TEM EXEMPLOS DE VIEWS E QUERIES A SEREM UTILIZADAS NO BANCO**
 
 # COMO GERAR DADOS NO BANCO:
 
@@ -85,20 +84,3 @@ Imagens do Dashboard:
 ![exemplo dashboard 2](https://github.com/user-attachments/assets/a7bd7447-3320-487c-a70e-327e6a7eab5e)
 ![exemplo dashboard 3](https://github.com/user-attachments/assets/d21d4d0a-a05d-4111-8181-6e9eccf8d242)
 ![exemplo dashboard 4](https://github.com/user-attachments/assets/ab0c1ed9-fbfa-45ac-8f2a-7bb80ac808bc)
-
-
-A estrutura de pastas é a seguinte:
-
-ProjetoWatch/
-│
-├── data/
-│   ├── Banco de Dados.sql
-│   ├── ExemploDeQueries.sql
-│   ├── ExemplosDeViews.sql
-│
-├── src/
-│   ├── DataGenerator.py
-│   ├── requirements.txt
-│
-├── Dashboard/
-│   ├── Dashboard WATCH.pbix
