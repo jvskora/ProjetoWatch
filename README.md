@@ -4,7 +4,7 @@ Simulação de Análise de Dados da plataforma de streaming **Watch**, utilizand
 
 ## Objetivo
 
-Este projeto tem como objetivo simular a análise de dados de uma plataforma de streaming chamada **Watch**. Foram utilizados dados de visualizações, acessos, atendimentos e planos de assinatura para criar um modelo de banco de dados relacional, além de gerar visualizações e relatórios para monitoramento de métricas-chave.
+Este projeto tem como objetivo simular a análise de dados da plataforma de streaming  **Watch**. Foram utilizados dados de visualizações, acessos, atendimentos e planos de assinatura para criar um modelo de banco de dados, além de gerar visualizações e relatórios para monitoramento de métricas-chave.
 
 O repositório inclui:
 - **Banco de Dados**: Criação do banco no PostgreSQL com tabelas relacionadas.
